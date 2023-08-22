@@ -3,4 +3,7 @@ let accountEmail = "arsalan@gmail.com"
 var = "arsalan234"
 accountCity = "Karachi"
 
+accountId = 2
+
+console.log(accountId);
 
